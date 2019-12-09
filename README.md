@@ -17,3 +17,5 @@ How To Execute The Program:
 4. Enter memory size, page size, and txt file
 
 We began by listing out all the requirements needed as a checklist and then starting the psudocode layout. Once we had the layout finished we split in half and each wrote our parts. We then compiled the psudocode and checked for errors and mistakes and further fixed the format. We then took our parts and split it up to write the actual code. 
+
+![screenshot](https://user-images.githubusercontent.com/35822482/70406899-1cdbba00-19f7-11ea-93ed-9e3668ec806c.png)
