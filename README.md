@@ -1,6 +1,7 @@
 # 351 Programming Assignment 2
 
 Gerardo Pena Canchola gerardopena23@csu.fullerton.edu
+
 Brandon Le fxslick@csu.fullerton.edu
 
 Programming Lanugage Used: C++
