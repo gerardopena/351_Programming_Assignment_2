@@ -45,7 +45,6 @@ int main()
     test.page_Size = page_Size;
     test.MM.resize(max_Memory/page_Size);
     test.out.open("output.txt");
-    //test.print();
     
     test.memoryManager();
 
