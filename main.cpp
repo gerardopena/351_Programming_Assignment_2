@@ -29,7 +29,7 @@ int main()
         }
         else if(input == 3)
         {
-            page_Size == 400;
+            page_Size = 400;
             loop = false;
         }
         else
